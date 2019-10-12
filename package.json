@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/runelite-extended/runeliteplus-discord-bot.git"
+    "url": "git+https://github.com/open-osrs/runeliteplus-discord-bot.git"
   },
   "author": "Tomas Slusny",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/runelite-extended/runeliteplus-discord-bot/issues"
+    "url": "https://github.com/open-osrs/runeliteplus-discord-bot/issues"
   },
-  "homepage": "https://github.com/runelite-extended/runeliteplus-discord-bot#readme",
+  "homepage": "https://github.com/open-osrs/runeliteplus-discord-bot#readme",
   "dependencies": {
     "discord.js": "^11.4.2",
     "littledb": "^1.0.5",
